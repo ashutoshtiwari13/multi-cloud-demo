@@ -1,4 +1,4 @@
-from hello import sum
+from hello import add
 
 def sumTest():
-    assert 3 == sum(1,2)
+    assert 3 == add(1,2)
